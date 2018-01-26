@@ -12,4 +12,4 @@ img{
   top:240px;
   }
 </style>
-<background src="images/3.jpg" width='300' height='180'/>
+<img src="images/3.jpg" width='300' height='180'/>
