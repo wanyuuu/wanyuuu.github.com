@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .p{
+            visibility: hidden;
+        }
+        .p1{
+            visibility: visible;
+        }
+    </style>
+</head>
+<body>
+        <a href="w1.html"onmouseover="over()" onmouseout="out()">勒布朗詹姆斯</a>
+
+        <img src="images/1.jpg" class="p" id="pic" width="200" height="300">
+
+<script type="text/javascript">
+        function over() {
+            var i=document.getElementById("pic");
+            i.className="p1"
+            console.log("over");
+            }
+    function out() {
+        var i=document.getElementById("pic");
+        i.className="p";
+        console.log("out");
+    }
+</script>
+</body>
+</html>
