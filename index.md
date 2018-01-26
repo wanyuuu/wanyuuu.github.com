@@ -8,8 +8,8 @@
 <style type="text/css">
 img{
   position:absolute;
-  left:700px;
+  left:900px;
   top:240px;
   }
 </style>
-<img src="images/3.jpg" width='500' height='300'/>
+<background src="images/3.jpg" width='300' height='180'/>
