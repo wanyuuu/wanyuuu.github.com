@@ -12,4 +12,4 @@ img{
   top:200px;
   }
 </style>
-<img src="3.jpg"/
+<img src="images/3.jpg"/>
