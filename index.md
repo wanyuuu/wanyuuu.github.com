@@ -1,5 +1,5 @@
 ## Welcome to 万先生和郭小姐的房子
-## Emmmm...欢迎来到这里，一名想开咖啡厅的java小白。 >
+## Emmmm...欢迎来到这里，一名想开咖啡厅的java小白。 
 ## 故事很多，不知从何说起；梦想不大，只要一方天地。
 ## 希望你在这里，懂得感激与努力，读到理想和生气。
 <a href='w17.html'>个人简介</a><br/>
@@ -9,7 +9,7 @@
 img{
   position:absolute;
   left:950px;
-  top:260px;
+  top:300px;
   }
 </style>
-<img src="images/3.jpg" width='300' height='180'/>
+<img src="images/3.jpg" width='300' height='200'/>
